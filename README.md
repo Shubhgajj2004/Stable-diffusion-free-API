@@ -11,6 +11,14 @@ copy the token and pase it in above code.
 
 That's it. You are ready to use. No restriction, no limit. Generate unlimited images without prior knowlege of how to write the prompt.
 
+# Example
+input = "Man body with head of bear"
+
+you will see generated output= "Man body with head of bear hybrid wearing polished armor character, beautiful face, by ilya kuvshinov, by thomas lawrence, by bayard wu, trending on artstation, masterpiece"
+
+Thanks to MagicPrompt.
+
+
 Thank you for choosing my project, and I hope you find it useful and enjoyable to use."
 
 
