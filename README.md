@@ -18,6 +18,8 @@ you will see generated output= "Man body with head of bear hybrid wearing polish
 
 Thanks to MagicPrompt.
 
+![alt Output](https://github.com/Shubhgajj2004/Stable-diffusion-free-API/blob/main/Man_with_headOfBear.png)
+
 
 Thank you for choosing my project, and I hope you find it useful and enjoyable to use."
 
